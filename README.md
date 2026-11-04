@@ -4,7 +4,7 @@ This repository contains restricted trial font assets for TaylorPenton.com previ
 
 The files are proprietary preview assets owned by Taylor Penton / Work By Taylor Inc. They are provided only for evaluation and preview purposes. Access to this repository or its files does not grant a license to use, copy, modify, redistribute, rehost, embed, or include them in any personal, client, commercial, social, print, web, app, logo, merch, template, AI, or machine-learning work.
 
-The Dumpling trial files contain a restricted character set. The Juicebox trial files retain the complete character set, spacing, kerning, and OpenType features so previews remain representative.
+The trial fonts intentionally contain a restricted character set. Kerning is preserved between retained glyphs so previews remain visually representative.
 
 To purchase a license, visit https://taylorpenton.com.
 
